@@ -1,0 +1,15 @@
+.heading1
+{
+    color:lightgreen ;
+}
+
+span
+{
+    font-size: 25px;
+    font-family: 'Source Code Pro', monospace;
+}
+li
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
